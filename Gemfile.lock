@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chronic (0.10.2)
+    rake (10.4.2)
+    rb-appscript (0.6.1)
+    rmagick (2.15.4)
+    whenever (0.9.4)
+      chronic (>= 0.6.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake
+  rb-appscript
+  rmagick
+  whenever
+
+BUNDLED WITH
+   1.11.2
